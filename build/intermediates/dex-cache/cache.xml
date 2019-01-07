@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_ea408480d43a43e4ec7bf3e6cb7b7201d9772af7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bad6305a60f04cb827172247b49010043d1ed8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_0355bdf0641fca05911193dcc40356f92874fb9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_da05819c333e340b4d641ff8b11497f35dbeccb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_686c8ff7da150727914911940e1eed9b9e7b5200.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_c09c735a4121d724ed68281362d680de4225bc68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_193db2225e8e771fb2db64fe300c64e2e6da0eb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_0f241031e349332d5404ecd4d2dca108b2277790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_5b21368ba7a803c61619784d002094151e3ade90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_af2562e5a1facfdd9970700f7b54f7448e254a85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_cae7d776523aae487dd2357514dc6172309fd2d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_835e3d4715a810d44e4996eb0018df10c15c2b15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_55c076b52ce6ffc59c7289509c9db97584a412b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_d3a8a2715ada2ba09b44833f540f1ca35d0bbb26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\VIDICON DEV 01\Downloads\Intro Slider Example\IntroSliderExample\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_aa42c9fe6dbfc0ec570888c865284a20b2a01612.jar" />
+    </item>
+
+</items>
